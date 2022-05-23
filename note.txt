@@ -1,0 +1,11 @@
+70. Production Deploy - Pending 
+
+1. Active Reacord
+2. ORM
+3. rails generate scaffold A
+
+4. Run migration
+-> rails db:migrate
+
+5. Check routes
+-> rails routes --expanded
